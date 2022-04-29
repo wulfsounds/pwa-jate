@@ -12,7 +12,6 @@
 -   [Installation](#Installation)
 -   [Usage](#Usage)
 -   [Links](#Links)
--   [Credits](#Credits)
 -   [License](#License)
 -   [Questions](#Questions)
 
@@ -67,15 +66,16 @@ To deploy the app, visit the Heroku deployment in [Links](#links)
 
 ## Usage
 
+![screenshot 1](./src/screenshot-1.png)
 
+![screenshot 2](./src/screenshot-2.png)
 
+![screenshot 3](./src/screenshot-3.png)
 ## Links 
 
 Repo this on [GitHub](https://github.com/wulfsounds/pwa-text-editor)
 
 Deploy on [Heroku](https://pwa-jate-wulfsounds.herokuapp.com/)
-
-## Credits
 
 
 ## License
