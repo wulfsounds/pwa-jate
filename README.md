@@ -48,7 +48,10 @@ THEN I should have proper build scripts for a webpack application
 
 ## Technology
 
-
+Javascript
+Webpack
+Node
+Express
 
 ## Installation
 
