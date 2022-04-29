@@ -66,10 +66,11 @@ Then, access the application using Postman or Insomnia. See the demonstration un
 
 ## Usage
 
-
 ## Links 
 
 Repo this on [GitHub](https://github.com/wulfsounds/pwa-text-editor)
+
+Deploy on [Heroku](https://pwa-jate-wulfsounds.herokuapp.com/)
 
 ## Credits
 
