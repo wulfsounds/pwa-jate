@@ -55,16 +55,19 @@ Express
 
 ## Installation
 
-To get started, fork this repo into a text editor, then install the node package into your repo using in the command line.
+To get started, fork this repo into a text editor, then install the node package in the root folder into your repo using in the command line.
 
 ```bash
 npm install
 ```
 
-After installation, either use `node index.js` or `npx nodemon` to connect to the locahost port.
-Then, access the application using Postman or Insomnia. See the demonstration under Usage on how to deploy.
+After installation, either use `npm run start` or `npm run start:dev` to run the application locally, then to connect to the locahost port.
+
+To deploy the app, visit the Heroku deployment in [Links](#links)
 
 ## Usage
+
+
 
 ## Links 
 
