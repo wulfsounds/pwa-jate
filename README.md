@@ -1,9 +1,10 @@
-# Just Another Text Editor
+# Just Another Text Editor (J.A.T.E.)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
+JATE is a progressive web-based application (PWA) that utilizes IndexedDB for storage and uses a data persistence technique that allows the program to run offline.
 
 ## Table of Contents
 
