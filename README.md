@@ -1,4 +1,4 @@
-# Social Media API
+# Just Another Text Editor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -82,7 +82,7 @@ Deploy on [Heroku](https://pwa-jate-wulfsounds.herokuapp.com/)
 
 MIT License
 
-Copyright (c) 2022 Dev Wulf, Caitlin Stevenson, Neema Velasco, Emily Vazquez
+Copyright (c) 2022 Dev Wulf
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
